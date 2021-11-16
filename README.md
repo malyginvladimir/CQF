@@ -1,6 +1,6 @@
 # Certificate-in-Quantitative-Finance (CQF)
 This repository contains 4 Jupyter Notebooks developed while studing for the Certificate in Quantitative Finance.
 The files are possible solutions to assignments. They are published for the **reference purpose** only.
-And I hope you don't copy any part of the code to pursue your CQF designation.
+I hope you don't copy any part of the code to pursue your CQF designation.
 
 
